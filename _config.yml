@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liang Zheng"
-description              : "First-year PhD student at University of Florida"
+description              : "Second-year PhD student at Beijing Institute of Technology"
 repository               : "liangzheng98/liangzheng98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Liang Zheng"
   avatar           : "images/profile.png"
-  bio              : "University of Florida"
-  location         : "FL, USA"
+  bio              : "Beijing Institute of Technology"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hhi_OaYAAAAJ"
