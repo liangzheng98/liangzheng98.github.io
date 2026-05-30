@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liang Zheng"
+title                    : "Liang Zheng (郑良)"
 description              : "Second-year PhD student at Beijing Institute of Technology"
 repository               : "liangzheng98/liangzheng98.github.io"
 google_scholar_stats_use_cdn : true

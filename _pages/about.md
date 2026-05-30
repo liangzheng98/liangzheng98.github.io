@@ -109,7 +109,7 @@ M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 
 # 📖 Educations
 
-* *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, Beijing, China
+* *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, Zhuhai, China
 
   * Supervisors: Assoc. Prof. Hao Gong and Research Fellow Cunbo Zhuang
 
