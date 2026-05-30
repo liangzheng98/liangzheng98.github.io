@@ -107,7 +107,7 @@ M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 * *2023* National Graduate Scholarship of China, Master’s Program, Hohai University
 * *2021–2023* First-Class Academic Scholarship for Master’s Students, Hohai University
 
-# 📖 Education
+# 📖 Educations
 
 * *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, Zhuhai, China
 

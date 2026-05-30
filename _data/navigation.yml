@@ -15,5 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Research Projects"
+    url: "/#-research-projects"
+
+  - title: "Intellectual Property"
+    url: "/#-intellectual-property"
