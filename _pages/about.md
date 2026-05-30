@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am currently a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), Energy and Transportation Domain, Zhuhai. I am supervised by Prof. Hao Gong and Prof. Cunbo Zhuang.
+I am currently a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), Zhuhai. I am supervised by Prof. Hao Gong and Prof. Cunbo Zhuang.
 
 Before joining Beijing Institute of Technology, I received my M.S. and B.S. degrees in Mechanical Engineering from Hohai University, College of Mechanical and Electrical Engineering, Changzhou, China.
 
@@ -109,7 +109,7 @@ M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 
 # 📖 Educations
 
-* *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, Zhuhai, China
+* *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, China
 
   * Supervisors: Prof. Hao Gong and Prof. Cunbo Zhuang
 
