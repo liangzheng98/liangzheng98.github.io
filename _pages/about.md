@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am currently a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), Zhuhai. I am supervised by Prof. Hao Gong and Prof. Cunbo Zhuang.
+I am currently a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing. I am supervised by Assoc. Prof. Hao Gong and Research Fellow Cunbo Zhuang.
 
 Before joining Beijing Institute of Technology, I received my M.S. and B.S. degrees in Mechanical Engineering from Hohai University, College of Mechanical and Electrical Engineering, Changzhou, China.
 
@@ -109,46 +109,65 @@ M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 
 # 📖 Educations
 
-* *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, China
+* *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, Beijing, China
 
-  * Supervisors: Prof. Hao Gong and Prof. Cunbo Zhuang
+  * Supervisors: Assoc. Prof. Hao Gong and Research Fellow Cunbo Zhuang
 
 * *2021.09 - 2024.06*, M.S. in Mechanical Engineering, Hohai University, Changzhou, China
 
-  * Supervisor: Prof. Minghai Yuan
+  * Supervisor: Assoc. Prof. Minghai Yuan
 
 * *2017.09 - 2021.06*, B.S. in Mechanical Engineering, Hohai University, Changzhou, China
 
-# 💻 Research Projects
+[//]: # (# 💻 Research Projects)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Key R&D Program</div><img src='../images/project1.png' alt="project" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # ()
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Key R&D Program</div><img src='../images/project1.png' alt="project" width="100%"></div></div>)
 
-**Research on Matrix Reconfigurable Production Intelligent Management and Control Platform for Large-Scale Customization**
+[//]: # (<div class='paper-box-text' markdown="1">)
 
-Sub-project of the National Key R&D Program of China
+[//]: # ()
+[//]: # (**Research on Matrix Reconfigurable Production Intelligent Management and Control Platform for Large-Scale Customization**)
 
-* Grant No. 2022YFB3306104
-* Role: Major Participant
-* Period: 2024–2025
-* Keywords: large-scale customization, reconfigurable production, intelligent scheduling, digital-physical fusion, smart manufacturing
+[//]: # ()
+[//]: # (Sub-project of the National Key R&D Program of China)
 
-</div>
-</div>
+[//]: # ()
+[//]: # (* Grant No. 2022YFB3306104)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master's Research Project</div><img src='../images/project2.png' alt="project" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # (* Role: Major Participant)
 
-**Research on Data-Driven Predictive Maintenance and Disturbance Self-Healing Mechanisms in Intelligent Manufacturing Workshops**
+[//]: # (* Period: 2024–2025)
 
-HHU Outstanding Master’s Thesis Cultivation Project
+[//]: # (* Keywords: large-scale customization, reconfigurable production, intelligent scheduling, digital-physical fusion, smart manufacturing)
 
-* Role: Principal Investigator
-* Period: 2023–2024
-* Keywords: predictive maintenance, disturbance self-healing, intelligent manufacturing workshop
+[//]: # ()
+[//]: # (</div>)
 
-</div>
-</div>
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master's Research Project</div><img src='../images/project2.png' alt="project" width="100%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # (**Research on Data-Driven Predictive Maintenance and Disturbance Self-Healing Mechanisms in Intelligent Manufacturing Workshops**)
+
+[//]: # ()
+[//]: # (HHU Outstanding Master’s Thesis Cultivation Project)
+
+[//]: # ()
+[//]: # (* Role: Principal Investigator)
+
+[//]: # (* Period: 2023–2024)
+
+[//]: # (* Keywords: predictive maintenance, disturbance self-healing, intelligent manufacturing workshop)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # (</div>)
 
 # 📌 Intellectual Property
 
