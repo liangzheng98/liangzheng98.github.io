@@ -36,6 +36,7 @@ If you are interested in my work, please feel free to contact me by [email](mail
 * **2025.06**:  One paper on dynamic scheduling for flexible job-shop with reconfigurable manufacturing cells accepted by *International Journal of Production Research*.
 * **2024.09**:  Started Ph.D. study in Mechanical Engineering at Beijing Institute of Technology.
 * **2024.06**:  Received M.S. degree in Mechanical Engineering from Hohai University.
+* **2021.06**:  Received B.S. degree in Mechanical Engineering from Hohai University.
 
 # 🔬 Research Interests
 
