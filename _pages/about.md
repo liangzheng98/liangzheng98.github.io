@@ -110,13 +110,18 @@ M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 * M. Yuan, Q. Yu, **Liang Zheng**, S. Lu, F. Pei. Hierarchical collaborative scheduling of workers and AGVs for digital twin-based distributed flexible job shop. *Computers & Industrial Engineering*, 214, 111882, 2026.
 * M. Yuan, S. Lu, **Liang Zheng**, Q. Yu, F. Pei, W. Gu. Distributed heterogeneous flexible job-shop scheduling problem considering automated guided vehicle transportation via improved deep Q network. *Swarm and Evolutionary Computation*, 94, 101902, 2025.
 
-# 🎖 Honors and Awards
+[//]: # (# 🎖 Honors and Awards)
 
-* *2025* National Graduate Scholarship of China, Ph.D. Program, Beijing Institute of Technology
-* *2024* Second Prize, 21st Huawei Cup China Post-Graduate Mathematical Contest in Modeling, Beijing Institute of Technology
-* *2024* Outstanding Graduate, Hohai University
-* *2023* National Graduate Scholarship of China, Master’s Program, Hohai University
-* *2021–2023* First-Class Academic Scholarship for Master’s Students, Hohai University
+[//]: # ()
+[//]: # (* *2025* National Graduate Scholarship of China, Ph.D. Program, Beijing Institute of Technology)
+
+[//]: # (* *2024* Second Prize, 21st Huawei Cup China Post-Graduate Mathematical Contest in Modeling, Beijing Institute of Technology)
+
+[//]: # (* *2024* Outstanding Graduate, Hohai University)
+
+[//]: # (* *2023* National Graduate Scholarship of China, Master’s Program, Hohai University)
+
+[//]: # (* *2021–2023* First-Class Academic Scholarship for Master’s Students, Hohai University)
 
 # 📖 Educations
 
@@ -180,18 +185,25 @@ M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 
 [//]: # (</div>)
 
-# 📌 Intellectual Property
+[//]: # (# 📌 Intellectual Property)
 
-## Patents
+[//]: # ()
+[//]: # (## Patents)
 
-* **Liang Zheng**, M. Yuan, Y. Li, et al. An Integrated Window–Balcony Device. Chinese invention patent, granted 2022. Patent No. ZL201911132917.6.
-* F. Pei, **Liang Zheng**, K. Mao, et al. A Binocular Colour Recognition Method Incorporating a Learning Mechanism. Chinese invention patent, granted 2025. Patent No. ZL202111551887.X.
-* F. Pei, K. Mao, **Liang Zheng**, et al. A Method for Evaluating the Operational Energy Consumption of Dual Six-Axis Industrial Robots. Chinese invention patent, granted 2024. Patent No. ZL202111559913.3.
+[//]: # ()
+[//]: # (* **Liang Zheng**, M. Yuan, Y. Li, et al. An Integrated Window–Balcony Device. Chinese invention patent, granted 2022. Patent No. ZL201911132917.6.)
 
-## Software Copyrights
+[//]: # (* F. Pei, **Liang Zheng**, K. Mao, et al. A Binocular Colour Recognition Method Incorporating a Learning Mechanism. Chinese invention patent, granted 2025. Patent No. ZL202111551887.X.)
 
-* M. Yuan, **Liang Zheng**, L. Zhang, et al. Digital Twin Shop-floor Management and Control System Software V1.0. Registration No. 2021SR1314178.
-* M. Yuan, **Liang Zheng**, K. Mao, et al. Constant-Force Hanger Testing System Software V1.0. Registration No. 2024SR0010327.
+[//]: # (* F. Pei, K. Mao, **Liang Zheng**, et al. A Method for Evaluating the Operational Energy Consumption of Dual Six-Axis Industrial Robots. Chinese invention patent, granted 2024. Patent No. ZL202111559913.3.)
+
+[//]: # ()
+[//]: # (## Software Copyrights)
+
+[//]: # ()
+[//]: # (* M. Yuan, **Liang Zheng**, L. Zhang, et al. Digital Twin Shop-floor Management and Control System Software V1.0. Registration No. 2021SR1314178.)
+
+[//]: # (* M. Yuan, **Liang Zheng**, K. Mao, et al. Constant-Force Hanger Testing System Software V1.0. Registration No. 2024SR0010327.)
 
 ---
 
