@@ -32,7 +32,8 @@ If you are interested in my work, please feel free to contact me by [email](mail
 
 * **2026.03**:  One paper on real-time dynamic integrated process planning and scheduling with reconfigurable manufacturing cells accepted by *Journal of Manufacturing Systems*.
 * **2026.03**:  One systematic review paper on dynamic shop floor scheduling in Industry 5.0 accepted by *Advanced Engineering Informatics*.
-* **2025.12**:  Awarded the National Graduate Scholarship of China during Ph.D. study at Beijing Institute of Technology.
+
+[//]: # (* **2025.12**:  Awarded the National Graduate Scholarship of China during Ph.D. study at Beijing Institute of Technology.)
 * **2025.06**:  One paper on dynamic scheduling for flexible job-shop with reconfigurable manufacturing cells accepted by *International Journal of Production Research*.
 * **2024.09**:  Started Ph.D. study in Mechanical Engineering at Beijing Institute of Technology.
 * **2024.06**:  Received M.S. degree in Mechanical Engineering from Hohai University.
