@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liang Zheng (郑良)"
-description              : "Second-year PhD student at Beijing Institute of Technology"
+description              : "Ph.D. Candidate in Mechanical Engineering at Beijing Institute of Technology"
 repository               : "liangzheng98/liangzheng98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Liang Zheng (郑良)"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile-360.png"
   bio              : "Beijing Institute of Technology"
   location         : "Beijing, China"
   employer         :
