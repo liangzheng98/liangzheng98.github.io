@@ -16,7 +16,10 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# wdm 0.1.x does not build on current RubyInstaller/UCRT Ruby.
+# Jekyll can run without it; use --force_polling if file watching is flaky.
+
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
