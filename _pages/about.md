@@ -51,7 +51,7 @@ If you are interested in my work, please feel free to contact me by [email](mail
 
 **Liang Zheng**, X. Chen, J. Liu, C. Zhuang
 
-[**DOI**](https://doi.org/10.1016/j.jmsy.2026.01.004) | <strong>SCI Journal Paper</strong>
+<p class="paper-links"><a href="https://doi.org/10.1016/j.jmsy.2026.01.004">DOI</a><span>SCI Journal Paper</span></p>
 
 * *Journal of Manufacturing Systems*, 85, 127-154, 2026. JCR Q1, IF 14.2.
 
@@ -65,7 +65,7 @@ If you are interested in my work, please feel free to contact me by [email](mail
 
 **Liang Zheng**, Y. Cai, Q. Gao, J. Liu, C. Zhuang
 
-[**DOI**](https://doi.org/10.1016/j.aei.2025.104241) | <strong>SCI Journal Paper</strong>
+<p class="paper-links"><a href="https://doi.org/10.1016/j.aei.2025.104241">DOI</a><span>SCI Journal Paper</span></p>
 
 * *Advanced Engineering Informatics*, 71, 104241, 2026. JCR Q1, IF 9.9.
 
@@ -79,7 +79,7 @@ If you are interested in my work, please feel free to contact me by [email](mail
 
 **Liang Zheng**, X. Chen, C. Zhuang, J. Liu, Y. Zhang, L. Lai
 
-[**DOI**](https://doi.org/10.1080/00207543.2025.2497961) | <strong>SCI Journal Paper</strong>
+<p class="paper-links"><a href="https://doi.org/10.1080/00207543.2025.2497961">DOI</a><span>SCI Journal Paper</span></p>
 
 * *International Journal of Production Research*, 63(2), 7427-7459, 2025. JCR Q1, IF 7.3.
 
@@ -93,7 +93,7 @@ If you are interested in my work, please feel free to contact me by [email](mail
 
 M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 
-[**DOI**](https://doi.org/10.1007/s10845-023-02252-8) | <strong>SCI Journal Paper</strong>
+<p class="paper-links"><a href="https://doi.org/10.1007/s10845-023-02252-8">DOI</a><span>SCI Journal Paper</span></p>
 
 * *Journal of Intelligent Manufacturing*, 36(1), 509-535, 2025. JCR Q1, IF 7.4.
 

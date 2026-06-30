@@ -171,6 +171,16 @@ body {
         font-weight: 600;
     }
 
+    a:focus {
+        outline: none;
+    }
+
+    a:focus-visible {
+        outline: 2px solid rgba(31, 111, 235, .45);
+        outline-offset: 3px;
+        border-radius: 4px;
+    }
+
     .visible-links a:before {
         background: #1f6feb;
         height: 2px;
@@ -191,6 +201,7 @@ body {
     border: 1px solid #e6ebf0;
     border-radius: 8px;
     box-shadow: 0 12px 32px rgba(31, 45, 61, .08);
+    min-width: 0;
 }
 
 .author__avatar img,
@@ -205,6 +216,14 @@ img.author__avatar {
     color: #1f2d3d;
     font-size: 1.18em;
     letter-spacing: 0;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: normal;
+}
+
+.author__content {
+    max-width: 100%;
+    min-width: 0;
 }
 
 .author__bio {
@@ -216,10 +235,59 @@ img.author__avatar {
 
     a {
         color: #315f9f;
+        overflow-wrap: anywhere;
+    }
+
+    i {
+        color: #263241;
     }
 
     li {
         margin-bottom: .55rem;
+        white-space: normal;
+    }
+}
+
+.author__urls-wrapper .author-icon {
+    width: 1.05em;
+    height: 1.05em;
+    margin-right: .35em;
+    color: #263241;
+    fill: currentColor;
+    vertical-align: -.16em;
+}
+
+.author__urls_sm {
+    display: flex;
+    align-items: center;
+    gap: .55rem;
+
+    a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 1.15em;
+        height: 1.15em;
+        line-height: 1;
+    }
+}
+
+.author__urls_sm .author-icon {
+    display: block;
+    width: 1.05em;
+    height: 1.05em;
+    margin-right: 0;
+    vertical-align: 0;
+}
+
+.author__urls_sm .author-icon--github {
+    width: 1em;
+    height: 1em;
+}
+
+@media (min-width: 57.8125em) {
+    .author__urls_sm {
+        display: none;
     }
 }
 
@@ -281,11 +349,11 @@ img.author__avatar {
 .paper-box {
     position: relative;
     margin: .35rem 0;
-    padding: 1.45rem;
-    background: #fbfcfe;
+    padding: 1.2rem;
+    background: #fff;
     border: 1px solid #e6ebf0;
     border-radius: 8px;
-    box-shadow: none;
+    box-shadow: 0 8px 20px rgba(31, 45, 61, .04);
     transition: border-color .18s ease, box-shadow .18s ease, transform .18s ease;
 
     &:hover {
@@ -302,19 +370,79 @@ img.author__avatar {
         }
 
         img {
+            aspect-ratio: 4 / 3;
+            object-fit: contain;
+            background: #fff;
             border-radius: 7px;
-            box-shadow: 0 12px 26px rgba(31, 45, 61, .14);
+            box-shadow: 0 10px 22px rgba(31, 45, 61, .12);
         }
     }
 
     .paper-box-text {
+        display: flex;
+        flex-direction: column;
+        gap: .45rem;
+
+        p {
+            margin: 0;
+        }
+
         p:first-child a {
             color: #163b68;
             border-bottom: 0;
+            font-size: 1.03em;
+            line-height: 1.42;
         }
 
         p:first-child a:hover {
             color: #1f6feb;
+        }
+
+        .paper-links {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: .55rem;
+            margin-top: .15rem;
+
+            a,
+            span {
+                display: inline-flex;
+                align-items: center;
+                min-height: 1.75rem;
+                padding: .22rem .62rem;
+                border: 1px solid #d7e2ef;
+                border-radius: 999px;
+                background: #f7faff;
+                color: #163b68;
+                font-size: .82em;
+                font-weight: 700;
+                line-height: 1;
+                text-decoration: none;
+            }
+        }
+
+        ul {
+            margin-top: .15rem;
+            padding-left: 0;
+            list-style: none;
+            color: #4c5c6d;
+            font-size: .94em;
+        }
+
+        li {
+            margin-bottom: 0;
+        }
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image {
+            flex: 0 0 30%;
+            max-width: 30%;
+        }
+
+        .paper-box-text {
+            max-width: 70%;
         }
     }
 }
@@ -349,5 +477,10 @@ hr {
 
     .paper-box {
         padding: 1rem;
+    }
+
+    .author__name {
+        font-size: 1em;
+        line-height: 1.22;
     }
 }
