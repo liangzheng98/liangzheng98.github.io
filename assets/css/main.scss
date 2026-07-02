@@ -44,7 +44,8 @@
     font-size: .95em;
     line-height: 1.72;
 
-    h1 {
+    h1,
+    h2 {
         margin-top: 1.75em;
         padding-bottom: .35em;
         border-bottom: 1px solid #edf1f5;
@@ -318,7 +319,8 @@ img.author__avatar {
         border-bottom-color: rgba(23, 78, 166, .55);
     }
 
-    h1 {
+    h1,
+    h2 {
         display: flex;
         align-items: center;
         gap: .65rem;
@@ -330,7 +332,8 @@ img.author__avatar {
         letter-spacing: 0;
     }
 
-    h1:after {
+    h1:after,
+    h2:after {
         content: '';
         flex: 1 1 auto;
         height: 2px;

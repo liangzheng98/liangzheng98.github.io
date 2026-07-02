@@ -22,7 +22,7 @@ If you are interested in my work, please feel free to contact me by [email](mail
 
 <span class="anchor" id="news"></span>
 
-# News
+## News
 
 * **2026.03**: One paper on real-time dynamic integrated process planning and scheduling with reconfigurable manufacturing cells was accepted by *Journal of Manufacturing Systems*.
 * **2026.03**: One systematic review paper on dynamic shop floor scheduling in Industry 5.0 was accepted by *Advanced Engineering Informatics*.
@@ -32,7 +32,7 @@ If you are interested in my work, please feel free to contact me by [email](mail
 
 <span class="anchor" id="research-interests"></span>
 
-# Research Interests
+## Research Interests
 
 * Dynamic Production Scheduling
 * Combinatorial Optimisation
@@ -42,7 +42,7 @@ If you are interested in my work, please feel free to contact me by [email](mail
 
 <span class="anchor" id="publications"></span>
 
-# Publications
+## Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMS 2026</div><img src='../images/paper1.png' alt="Journal of Manufacturing Systems paper preview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,7 +106,7 @@ M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 
 <span class="anchor" id="education"></span>
 
-# Education
+## Education
 
 * *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, Zhuhai, China
   * Supervisors: Assoc. Prof. Hao Gong and Research Fellow Cunbo Zhuang
