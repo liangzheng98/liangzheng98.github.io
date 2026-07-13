@@ -111,7 +111,7 @@ M. Yuan, **Liang Zheng**, H. Huang, K. Zhou, F. Pei, W. Gu
 * *2024.09 - 2028.06 expected*, Ph.D. Candidate in Mechanical Engineering, Beijing Institute of Technology, Zhuhai, China
   * Supervisors: Assoc. Prof. Hao Gong and Research Fellow Cunbo Zhuang
 * *2021.09 - 2024.06*, M.S. in Mechanical Engineering, Hohai University, Changzhou, China
-  * Supervisor: Assoc. Prof. Minghai Yuan
+  * Supervisor: Prof. Minghai Yuan
 * *2017.09 - 2021.06*, B.S. in Mechanical Engineering, Hohai University, Changzhou, China
 
 ---
