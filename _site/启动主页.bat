@@ -1,0 +1,6 @@
+@echo off
+setlocal
+cd /d "%~dp0"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "$Port=4000; $BindAddress='127.0.0.1'; $ProjectRoot=(Get-Location).Path; $SiteDir=Join-Path $ProjectRoot '_site'; if(-not (Test-Path -LiteralPath $SiteDir)){throw 'Cannot find _site directory: '+$SiteDir}; $ruby=Get-Command ruby -ErrorAction SilentlyContinue; if(-not $ruby){throw 'Ruby is not available on PATH.'}; $existing=Get-NetTCPConnection -LocalPort $Port -State Listen -ErrorAction SilentlyContinue | Select-Object -First 1; if($existing){Write-Host ('Port '+$Port+' is already in use by PID '+$existing.OwningProcess+'.'); Write-Host ('Homepage may already be running at http://'+$BindAddress+':'+$Port); exit 0}; $arguments=@('-run','-e','httpd','--','_site',('--port='+$Port),('--bind-address='+$BindAddress)); $proc=Start-Process -WindowStyle Hidden -FilePath $ruby.Source -ArgumentList $arguments -WorkingDirectory $ProjectRoot -PassThru; Start-Sleep -Seconds 1; $started=Get-NetTCPConnection -LocalPort $Port -State Listen -ErrorAction SilentlyContinue | Where-Object { $_.OwningProcess -eq $proc.Id } | Select-Object -First 1; if(-not $started){throw 'Homepage server did not start on port '+$Port+'. Started PID: '+$proc.Id}; Write-Host 'Homepage started.'; Write-Host ('PID: '+$proc.Id); Write-Host ('URL: http://'+$BindAddress+':'+$Port)"
+echo.
+pause

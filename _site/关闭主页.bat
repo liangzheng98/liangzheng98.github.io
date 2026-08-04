@@ -1,0 +1,6 @@
+@echo off
+setlocal
+cd /d "%~dp0"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "$Port=4000; $listeners=Get-NetTCPConnection -LocalPort $Port -State Listen -ErrorAction SilentlyContinue; if(-not $listeners){Write-Host ('No homepage server is listening on port '+$Port+'.'); exit 0}; $stopped=0; foreach($listener in $listeners){$processId=$listener.OwningProcess; $process=Get-CimInstance Win32_Process -Filter ('ProcessId='+$processId) -ErrorAction SilentlyContinue; if(-not $process){continue}; $commandLine=[string]$process.CommandLine; $looksLikeHomepage=$commandLine -like '*ruby*' -and $commandLine -like '*httpd*' -and $commandLine -like '*_site*' -and ($commandLine -like ('*--port='+$Port+'*') -or $commandLine -like ('*--port '+$Port+'*')); if(-not $looksLikeHomepage){Write-Host ('Port '+$Port+' is used by PID '+$processId+', but it does not look like this homepage server.'); Write-Host $commandLine; continue}; Stop-Process -Id $processId -Force; $stopped++; Write-Host ('Stopped PID '+$processId+'.')}; Start-Sleep -Milliseconds 500; $remaining=Get-NetTCPConnection -LocalPort $Port -State Listen -ErrorAction SilentlyContinue; if($remaining){Write-Host ('Port '+$Port+' is still in use.'); exit 1}; if($stopped -eq 0){Write-Host 'No matching homepage server was stopped.'} else {Write-Host 'Homepage stopped.'}"
+echo.
+pause
