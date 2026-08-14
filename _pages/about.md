@@ -12,9 +12,9 @@ redirect_from:
 
 # Welcome
 
-I am a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, supervised by Assoc. Prof. Hao Gong and Research Fellow Cunbo Zhuang.
+I am a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Technology](https://www.bit.edu.cn/), Beijing, supervised by Assoc. Prof. Hao Gong and Research Fellow Cunbo Zhuang.
 
-Before joining Beijing Institute of Technology, I received my M.S. and B.S. degrees in Mechanical Engineering from Hohai University, College of Mechanical and Electrical Engineering, Changzhou, China.
+Before joining Beijing Institute of Technology, I received my M.S. and B.S. degrees in Mechanical Engineering from [Hohai University](https://www.hhu.edu.cn/), College of Mechanical and Electrical Engineering, Changzhou, China.
 
 My research focuses on intelligent scheduling and management methods for reconfigurable manufacturing systems under dynamic and uncertain production environments. I am broadly interested in production scheduling, combinatorial optimisation, deep reinforcement learning, smart manufacturing systems, and large language models.
 
